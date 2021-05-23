@@ -1,3 +1,6 @@
-spit 'hello world'
-moveplate 1
-serve 'cool dude'
+if true==true: moveplate 3
+moveplate 5
+spit 'hello'
+moveplate 6
+spit ':P'
+spit 'end'# This should do nothing
