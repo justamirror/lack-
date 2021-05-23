@@ -1,0 +1,3 @@
+spit 'hello world'
+moveplate 1
+serve 'cool dude'
